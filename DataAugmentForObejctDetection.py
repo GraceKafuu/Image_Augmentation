@@ -577,3 +577,4 @@ if __name__ == '__main__':
                                     (labels, auged_bboxes_int))  # 保存xml文件
                 # show_pic(auged_img, auged_bboxes)  # 强化后的图
                 cnt += 1  # 继续增强下一张
+    print("\n#################### Successful ######################\n")
